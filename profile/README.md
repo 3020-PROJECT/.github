@@ -2,7 +2,6 @@
 
 > **Note:** This is an example setup — you don’t actually need a TL-MR3020 to explore the projects. Feel free to adapt the code to any hardware you already have! 😄
 
-**Hacking Hardware, Not People — Repair, Repurpose, Reinvent**
 
 The **3020-Project** is an open-source initiative dedicated to unlocking the potential of the **TL-MR3020 router**. Through a series of experiments and projects, we transform this small, affordable device into a flexible mini-computer that can interface with Arduino Nanos, ESP32 displays, and keyboards — proving that curiosity and creativity can breathe new life into old hardware.
 
